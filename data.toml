@@ -9,17 +9,21 @@ base_url = "http://skyrocketteam.github.io/"
 
 [[sections]]
 title = "Link"
-description = ""
+description = "Find us here!"
 direction = "row"
 item_style = "filled"
 [[sections.items]]
 title = "Rifa"
 url = "https://rifa.digital/s/rifa-skyrocket-team-2023567650"
+[[sections.items]]
 title = "Instagram"
 url = "https://www.instagram.com/teamskyrocket/"
+[[sections.items]]
 title = "Whatsapp"
 url = "http://wa.me/556281712812"
+[[sections.items]]
 title = "Linkedin"
 url = "https://www.linkedin.com/company/teamskyrocket/?viewAsMember=true"
+[[sections.items]]
 title = "Vakinha"
 url = "https://www.vakinha.com.br/vaquinha/ajuda-para-desenvolvimento-de-um-foguete-universitario"
