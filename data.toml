@@ -33,13 +33,4 @@ direction = "row"
 item_style = "filled"
 [[sections.items]]
 title = "Instagram"
-url = "https://www.instagram.com/jakegyllenhaal"
-[[sections.items]]
-title = "IMDb"
-url = "https://www.imdb.com/name/nm0350453/"
-[[sections.items]]
-title = "Wikipedia"
-url = "https://en.wikipedia.org/wiki/Jake_Gyllenhaal"
-[[sections.items]]
-title = "Rotten Tomatoes"
-url = "https://www.rottentomatoes.com/celebrity/jake_gyllenhaal"
+url = "https://www.instagram.com/teamskyrocket/"
