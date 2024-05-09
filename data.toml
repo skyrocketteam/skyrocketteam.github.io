@@ -10,7 +10,7 @@ base_url = "http://skyrocketteam.github.io/"
 [[sections]]
 title = "Link"
 description = "Find us here!"
-direction = "row"
+direction = "column"
 item_style = "filled"
 [[sections.items]]
 title = "Rifa"
